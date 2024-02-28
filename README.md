@@ -1,5 +1,4 @@
 # 💫 About Me:
-✨Fun fact : I think i am funny
 
 
 ## 🌐 Socials:

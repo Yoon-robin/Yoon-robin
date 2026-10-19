@@ -1,4 +1,4 @@
-<a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="robin — 3D VFX 하는 학생입니다. 필요한 건 직접 만들어 써요." width="100%"></picture></a>
+<a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="robin — 3D VFX artist" width="100%"></picture></a>
 
 <p>
   <a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-site.svg"><img src="assets/light/btn-site.svg" alt="yoonrobin.pages.dev"></picture></a>

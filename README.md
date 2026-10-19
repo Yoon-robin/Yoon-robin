@@ -1,4 +1,4 @@
-<a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="robin — 3D VFX 하는 평범한 학생이에요. 필요한 프로그램은 직접 만들어 써요." width="100%"></picture></a>
+<a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="robin — 3D VFX 하는 학생입니다. 필요한 건 직접 만들어 써요." width="100%"></picture></a>
 
 <p>
   <a href="https://yoonrobin.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-site.svg"><img src="assets/light/btn-site.svg" alt="yoonrobin.pages.dev"></picture></a>
@@ -7,7 +7,6 @@
   <a href="https://www.tiktok.com/@zxc.robin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-tiktok.svg"><img src="assets/light/btn-tiktok.svg" alt="TikTok"></picture></a>
 </p>
 
-<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-projects.svg"><img src="assets/light/section-projects.svg" alt="Projects" width="100%"></picture>
 
@@ -24,10 +23,8 @@
   <a href="https://itcsconnect.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-itcs.svg"><img src="assets/light/card-itcs.svg" alt="itcsconnect.xyz" width="49.6%"></picture></a>
 </p>
 
-<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-stack.svg"><img src="assets/light/section-stack.svg" alt="Stack" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" alt="Blender, Unreal Engine 5, C++, C#, Rust, Tauri, TypeScript, Next.js, React, Tailwind CSS, shadcn/ui, Python, Lua, Cloudflare, PostgreSQL, Arch Linux, Hyprland" width="100%"></picture>
 
-<sub>Font: <a href="https://github.com/orioncactus/pretendard">Pretendard</a> (SIL OFL 1.1)</sub>

@@ -1,0 +1,2 @@
+Pretendard (https://github.com/orioncactus/pretendard) subsets are embedded in these SVGs.
+Licensed under the SIL Open Font License 1.1: https://openfontlicense.org
